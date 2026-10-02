@@ -56,6 +56,9 @@ A graph algorithms project comparing exact search with a Christofides-inspired a
 
 ## 💼 Professional Experience
 
+**International Internship @ EDF (UK) — London**  
+Completed an internship within **Business & Wholesale Services (BWS)**, working with the **Pricing & Valuations team**. This experience strengthened my international professional background alongside my Data Science and software engineering projects.
+
 **BI Engineer Apprentice @ EDF Group — 2024–Present**  
 Building ETL pipelines and interactive dashboards, connecting business needs with data processing and reporting.
 
