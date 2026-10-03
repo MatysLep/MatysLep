@@ -21,7 +21,7 @@ A human activity recognition project using plantar pressure and inertial sensor 
 
 **Stack:** Python · PyTorch · Pandas · NumPy · SciPy · scikit-learn · Jupyter
 
-### [Car Insurance Claim Prediction](https://github.com/MatysLep/ProjetDataScience) — Predictive Modelling
+### [Car Insurance Claim Prediction](https://github.com/MatysLep/Car-Insurance-Claim-Predictor) — Predictive Modelling
 A Data Science project exploring insurance claim risk through exploratory analysis, preprocessing and supervised classification.
 
 - Handled missing values and encoded categorical features.
